@@ -1,5 +1,5 @@
 ![Banner](lineplot.png)
-![Banner](Barplt.png)
+![Banner](Barplot.png)
 ![Banner](pieplot.png)
 
 # Data_Visualization_Through_Matplotlib
